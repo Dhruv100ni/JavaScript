@@ -35,6 +35,7 @@ function modulus(a, b) {
 //     }
 // }
 
+
 total = sum(20, 15);
 console.log(total);
 total = subtract(20, 5);
